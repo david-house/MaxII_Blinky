@@ -1,0 +1,7 @@
+*.bak
+db
+incremental_db
+output_files
+simulation
+simulation/modelsim
+incremental_db/compiled_partitions
